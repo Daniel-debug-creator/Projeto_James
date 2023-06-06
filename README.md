@@ -7,25 +7,29 @@ O objetivo do código é montar uma interface e fazer capítulos com seções so
 
 ## **Como usar esse código?**
 
+
 ## **O que foi feito até agora:**
 
-- Função de precessamento de texto, transformando os textos em minúsculo, sem sinais, números e caracteres especiais (**formata**)
+- Função de precessamento de texto, transformando os textos emr, sem sinais, números e caracteres especiais (**formata**)
 - Função para Criptografia de César (**cesar**)
 - Função para identificação da frequência de caracteres no texto(**conta**)
+- Foi criado a primeira interface da plataforma (Notebook no Jupyter Lab)
 
-### Referências de decodificação por Frequência de Letras:
+## **Referências:**
+
+### Decodificação por Frequência de Letras:
 - [Exemplo](http://numaboa.com.br/criptografia/criptoanalise/1051-exemplo)
 - [Frequência de Letras em Espanhol](http://numaboa.com.br/criptografia/criptoanalise/1049-freq-espanhol)
 - [Letter Frequency](https://en.wikipedia.org/wiki/Letter_frequency)
 - [Frecuencia de aparición de letras](https://es.wikipedia.org/wiki/Frecuencia_de_aparici%C3%B3n_de_letras)
 - [Frequência de letras](https://pt.wikipedia.org/wiki/Frequ%C3%AAncia_de_letras)
 
-### Referências de codificação por cifra de César:
+### Codificação por cifra de César:
 - [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
 
-### Referências de codificação por Morse:
+### Codificação por Morse:
 - [Morse code](https://en.wikipedia.org/wiki/Morse_code)
 
-### Referências de codificação por Morse:
+### Codificação por Morse:
 
 - [Enigm Machine](https://www.youtube.com/watch?v=2D2bJWHvqJo)
