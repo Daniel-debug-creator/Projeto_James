@@ -10,7 +10,7 @@ def formata(texto):
     for caractere in texto:
         if not caractere in caracteres:
             caracteres_sem_numeros += caractere
-      #cria um loop que varre todos os caracteres no texto que a função recebe e compara eles com os símbolos na lista "caracteres", caso sejam diferentes, o caractres é adicionado à "caracteres_sem_numeros"
+      #cria um loop que varre todos os caracteres no texto que a função recebe e compara eles com os símbolos na lista "caracteres", caso sejam diferentes, o caracter é adicionado à "caracteres_sem_numeros"
     caracteres_sem_numeros = caracteres_sem_numeros.lower()
     #deixa toda a string em caixa baixa
 
