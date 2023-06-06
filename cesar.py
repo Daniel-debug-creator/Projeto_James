@@ -10,7 +10,7 @@ def cesar(texto, paso):
             new_pos = ((pos + paso) % len(letras_minusculas))
             final += letras_minusculas[new_pos]
 
-        elif c.isnumeric():
+        elif c.isnumeric() or c == ' ':
             final += c
             """
             pos = numero.index(c)
