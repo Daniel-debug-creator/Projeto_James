@@ -27,9 +27,6 @@ O objetivo do código é montar uma interface e fazer capítulos com seções so
 ### Codificação por cifra de César:
 - [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
 
-### Codificação por Morse:
-- [Morse code](https://en.wikipedia.org/wiki/Morse_code)
-
-### Codificação por Morse:
+### Máquina Enigma:
 
 - [Enigm Machine](https://www.youtube.com/watch?v=2D2bJWHvqJo)
